@@ -1,5 +1,6 @@
 # Level border
-This is going to be a Fabric mod for Minecraft 1.20.4 that restricts your world borders based on your experience level. It's being developed with multiplayer in mind, which means each player will have their own spawn point.
+This is eventually going to be a Fabric mod for Minecraft that restricts your world borders based on your experience level. It's being designed with multiplayer in mind, which means each player will have their own spawn point.  
+Development hasn't started yet, mostly due to not having free time to do so.
 
 ## Planned initial features
 ### Spawn mechanics
